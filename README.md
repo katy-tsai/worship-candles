@@ -4,7 +4,7 @@
 <a href="https://drive.google.com/file/d/0B0NYhi6qpTZMRVBUWEhDSklNeFU/view?usp=sharing">下載使用手冊</a><br>
 
 資料庫:sqlite<br>
-使用技術：Swing,JDBC,Maven
+使用技術：JAVA,Swing,JDBC,Maven
 <pre>
 【資料庫存取】
  仿spring data，將jdbc封裝，利用動態代理方式，由@Query 的annotation取得指令
